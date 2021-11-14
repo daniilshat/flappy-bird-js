@@ -1,5 +1,5 @@
 # flappy-bird-js
-Implementation of classical Flappy Bird on vanilla JavaScript
+🎮🐤 Implementation of classical Flappy Bird on vanilla JavaScript
 
 ## Used technologies
 + HTML;
